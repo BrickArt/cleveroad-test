@@ -1,0 +1,18 @@
+{
+  "name": "cleveroad-test",
+  "version": "1.0.0",
+  "description": "Test quest rof Cleveroad company. (Full-stack position)",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Artem Rebryk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.9",
+    "multer": "^1.3.0"
+  }
+}
